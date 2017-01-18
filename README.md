@@ -1,2 +1,4 @@
 # JS_First
-self explainitory
+self explanatory
+
+Learning GitHub. Better late than never.
